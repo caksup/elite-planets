@@ -1,5 +1,5 @@
 title: Stackbit App Theme
-baseURL: /
+baseURL: https://caksup.github.io/elite-planets/
 taxonomies:
   stub: stub
 disableKinds:
